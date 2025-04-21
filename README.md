@@ -41,5 +41,5 @@ Aqui estão algumas melhorias e tarefas para organizar e aprimorar o código:
 
 1. **Clonar o repositório**:
    ```bash
-   git clone https://github.com/Hudson-Farias/crawl-monostate-template.git
+   git clone https://github.com/Hudson-Farias/web-scraping-template.git
    cd web-scraping-template
